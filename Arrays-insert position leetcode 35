@@ -1,0 +1,16 @@
+class Solution {
+    public int searchInsert(int[] nums, int target) {
+
+        // Traverse the array
+        for (int i = 0; i < nums.length; i++) {
+
+            // If current element is greater or equal
+            if (nums[i] >= target) {
+                return i;
+            }
+        }
+
+        // If target is greater than all elements
+        return nums.length;
+    }
+}
