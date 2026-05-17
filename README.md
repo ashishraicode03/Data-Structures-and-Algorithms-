@@ -1,3 +1,3 @@
 # Data-Structures-and-Algorithms-
-Arrays
-String
+#Arrays
+#String
