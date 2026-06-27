@@ -34,11 +34,13 @@
 ## Array
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
