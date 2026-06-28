@@ -87,4 +87,8 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
