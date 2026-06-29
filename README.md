@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -101,4 +102,12 @@
 | ------- |
 | [0607-sales-person](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0608-tree-node) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
