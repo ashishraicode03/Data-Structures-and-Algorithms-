@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,10 +128,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -144,6 +147,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
