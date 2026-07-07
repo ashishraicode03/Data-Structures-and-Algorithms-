@@ -31,6 +31,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
