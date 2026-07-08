@@ -65,6 +65,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -86,15 +87,18 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -102,6 +106,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -166,4 +171,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3620-network-recovery-pathways) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
