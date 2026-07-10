@@ -7,6 +7,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3713-longest-balanced-substring-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3713-longest-balanced-substring-i) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -197,5 +199,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
