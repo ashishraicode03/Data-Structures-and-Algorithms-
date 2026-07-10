@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3713-longest-balanced-substring-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -62,6 +63,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+| [3713-longest-balanced-substring-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
@@ -107,6 +110,7 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3713-longest-balanced-substring-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
