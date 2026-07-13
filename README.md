@@ -114,6 +114,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
