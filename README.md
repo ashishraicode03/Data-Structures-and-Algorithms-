@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0608-tree-node) |
 ## Linked List
