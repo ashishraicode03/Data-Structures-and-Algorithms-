@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -52,6 +54,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3620-network-recovery-pathways) |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
