@@ -78,6 +78,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0190-reverse-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
