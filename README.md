@@ -153,6 +153,7 @@
 | [0184-department-highest-salary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0610-triangle-judgement) |
 ## Linked List
 |  |
 | ------- |
