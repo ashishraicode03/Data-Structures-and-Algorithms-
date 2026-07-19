@@ -41,6 +41,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -237,6 +238,7 @@
 | [0190-reverse-bits](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
