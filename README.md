@@ -44,6 +44,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -62,6 +63,7 @@
 | [0001-two-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1301-number-of-paths-with-max-score) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1331-rank-transform-of-an-array) |
