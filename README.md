@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -70,6 +72,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+| [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1288-remove-covered-intervals) |
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -314,4 +318,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
