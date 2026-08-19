@@ -99,6 +99,7 @@
 | [1288-remove-covered-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -133,6 +134,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -211,6 +213,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2029-stone-game-ix) |
@@ -332,6 +335,7 @@
 | [0401-binary-watch](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3514-number-of-unique-xor-triplets-ii) |
