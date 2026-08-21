@@ -68,6 +68,7 @@
 | [1563-stone-game-v](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -114,6 +115,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -272,6 +274,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -340,6 +343,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -355,6 +359,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -368,6 +373,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
