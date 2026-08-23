@@ -13,6 +13,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1927-sum-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -66,6 +67,7 @@
 | [1406-stone-game-iii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -222,6 +224,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -394,6 +397,7 @@
 | [1406-stone-game-iii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
