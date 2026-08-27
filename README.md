@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1140-stone-game-ii) |
@@ -350,6 +352,7 @@
 | [0125-valid-palindrome](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
