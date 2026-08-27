@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0125-valid-palindrome) |
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -346,6 +347,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
