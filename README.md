@@ -112,6 +112,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
@@ -271,6 +272,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
@@ -480,4 +482,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
