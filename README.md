@@ -273,6 +273,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
+| [0147-insertion-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
@@ -301,6 +302,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0021-merge-two-sorted-lists) |
+| [0147-insertion-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
