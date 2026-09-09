@@ -227,6 +227,7 @@
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -236,6 +237,7 @@
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -247,6 +249,7 @@
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 ## Enumeration
@@ -343,6 +346,7 @@
 | [0100-same-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
