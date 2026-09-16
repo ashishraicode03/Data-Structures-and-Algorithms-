@@ -133,6 +133,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +185,7 @@
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1331-rank-transform-of-an-array) |
@@ -350,6 +352,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
