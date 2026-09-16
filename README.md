@@ -83,6 +83,7 @@
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -181,6 +182,7 @@
 | [0001-two-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
@@ -429,6 +431,7 @@
 | [0148-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -535,4 +538,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0836-rectangle-overlap) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
