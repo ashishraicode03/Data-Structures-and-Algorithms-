@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -253,6 +254,7 @@
 | [0100-same-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -264,6 +266,7 @@
 | [0100-same-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -277,6 +280,7 @@
 | [0100-same-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
