@@ -46,6 +46,7 @@
 | [0055-jump-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0877-stone-game) |
@@ -131,6 +132,7 @@
 | [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
