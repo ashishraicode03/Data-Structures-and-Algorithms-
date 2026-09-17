@@ -350,11 +350,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
