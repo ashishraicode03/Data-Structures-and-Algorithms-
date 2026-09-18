@@ -19,6 +19,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -197,6 +198,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -305,6 +307,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1927-sum-game) |
@@ -327,6 +330,7 @@
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3517-smallest-palindromic-rearrangement-i) |
