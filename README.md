@@ -27,6 +27,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -483,6 +484,7 @@
 | [1260-shift-2d-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
