@@ -15,6 +15,7 @@
 | [0168-excel-sheet-column-title](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0940-distinct-subsequences-ii) |
@@ -204,6 +205,7 @@
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
