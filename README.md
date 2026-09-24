@@ -56,6 +56,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0877-stone-game) |
@@ -155,6 +156,7 @@
 | [0198-house-robber](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -424,6 +426,7 @@
 | [0100-same-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2685-count-the-number-of-complete-components) |
@@ -601,4 +604,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
