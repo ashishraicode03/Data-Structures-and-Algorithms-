@@ -11,6 +11,7 @@
 | [0076-minimum-window-substring](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
@@ -53,6 +54,7 @@
 | [0070-climbing-stairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
@@ -147,6 +149,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0198-house-robber) |
@@ -206,6 +209,7 @@
 | [0001-two-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
@@ -575,6 +579,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 ## Quicksort
 |  |
 | ------- |
@@ -588,4 +593,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
