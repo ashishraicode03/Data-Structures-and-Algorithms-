@@ -25,6 +25,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -181,6 +182,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -235,6 +237,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
