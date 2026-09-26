@@ -102,6 +102,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0149-max-points-on-a-line) |
@@ -157,6 +158,7 @@
 | [0053-maximum-subarray](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0119-pascals-triangle-ii) |
