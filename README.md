@@ -17,6 +17,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
@@ -239,6 +240,7 @@
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0290-word-pattern) |
@@ -649,6 +651,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0208-implement-trie-prefix-tree) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -673,4 +676,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0149-max-points-on-a-line) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
