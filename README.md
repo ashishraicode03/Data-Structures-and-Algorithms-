@@ -168,6 +168,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0228-summary-ranges) |
@@ -321,6 +322,7 @@
 | [0110-balanced-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -459,6 +461,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -470,6 +473,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -482,6 +486,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1301-number-of-paths-with-max-score) |
