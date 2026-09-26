@@ -175,6 +175,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0877-stone-game) |
@@ -354,6 +355,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0055-jump-game) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
@@ -377,6 +379,7 @@
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
 | [1096-brace-expansion-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1096-brace-expansion-ii) |
