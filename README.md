@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0115-distinct-subsequences) |
@@ -152,6 +153,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
@@ -223,6 +225,7 @@
 | [0001-two-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0149-max-points-on-a-line) |
@@ -362,6 +365,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0147-insertion-sort-list) |
