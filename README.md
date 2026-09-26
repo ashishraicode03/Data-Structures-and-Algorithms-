@@ -18,6 +18,7 @@
 | [0168-excel-sheet-column-title](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
@@ -171,6 +172,7 @@
 | [0198-house-robber](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0289-game-of-life) |
@@ -492,6 +494,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1301-number-of-paths-with-max-score) |
@@ -575,6 +578,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -652,6 +656,7 @@
 | ------- |
 | [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0212-word-search-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
