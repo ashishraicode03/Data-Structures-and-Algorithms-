@@ -10,6 +10,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0125-valid-palindrome) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1096-brace-expansion-ii) |
