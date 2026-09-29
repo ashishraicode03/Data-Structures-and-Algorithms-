@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0071-simplify-path) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -61,6 +63,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0055-jump-game) |
@@ -697,6 +700,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
