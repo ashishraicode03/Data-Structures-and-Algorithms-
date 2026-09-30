@@ -28,6 +28,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -58,6 +59,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
@@ -701,6 +703,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
