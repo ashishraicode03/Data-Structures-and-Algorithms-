@@ -253,6 +253,7 @@
 | [0076-minimum-window-substring](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
@@ -433,6 +434,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0203-remove-linked-list-elements) |
@@ -546,6 +548,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -667,6 +670,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 ## Trie
 |  |
