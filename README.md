@@ -25,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -58,6 +59,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -80,6 +82,7 @@
 | [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1140-stone-game-ii) |
@@ -383,6 +386,7 @@
 | [0045-jump-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1386-cinema-seat-allocation) |
@@ -712,6 +716,7 @@
 | [0020-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
