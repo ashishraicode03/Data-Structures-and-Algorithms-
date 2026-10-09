@@ -207,6 +207,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
+| [0502-ipo](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1140-stone-game-ii) |
@@ -395,6 +396,7 @@
 | [0045-jump-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -422,6 +424,7 @@
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
 | [1096-brace-expansion-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1096-brace-expansion-ii) |
@@ -521,6 +524,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0502-ipo) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3620-network-recovery-pathways) |
 ## Matrix
