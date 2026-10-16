@@ -193,6 +193,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -272,6 +273,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0141-linked-list-cycle) |
@@ -537,6 +539,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2685-count-the-number-of-complete-components) |
