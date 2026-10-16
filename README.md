@@ -64,6 +64,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -753,6 +754,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0208-implement-trie-prefix-tree) |
 ## Bracket Sequences
 |  |
