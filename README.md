@@ -255,6 +255,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -307,6 +308,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3713-longest-balanced-substring-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -458,6 +460,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
