@@ -235,6 +235,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -461,6 +462,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -522,6 +524,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
