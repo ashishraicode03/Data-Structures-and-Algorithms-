@@ -139,6 +139,7 @@
 | [0149-max-points-on-a-line](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -203,6 +204,7 @@
 | [0149-max-points-on-a-line](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0209-minimum-size-subarray-sum) |
@@ -618,6 +620,7 @@
 | [0148-sort-list](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0392-is-subsequence) |
