@@ -12,6 +12,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0115-distinct-subsequences) |
@@ -196,6 +197,7 @@
 | [0056-merge-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0119-pascals-triangle-ii) |
@@ -648,6 +650,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
