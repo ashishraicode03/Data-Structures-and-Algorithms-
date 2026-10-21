@@ -23,6 +23,7 @@
 | [0205-isomorphic-strings](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0301-remove-invalid-parentheses) |
@@ -67,6 +68,7 @@
 | [0071-simplify-path](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -142,6 +144,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -506,6 +509,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 ## Sliding Window
 |  |
