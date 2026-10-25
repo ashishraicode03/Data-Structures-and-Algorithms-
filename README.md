@@ -228,6 +228,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1301-number-of-paths-with-max-score) |
@@ -400,6 +401,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -562,6 +564,7 @@
 | [0322-coin-change](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -571,6 +574,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/2685-count-the-number-of-complete-components) |
@@ -589,6 +593,7 @@
 | [0200-number-of-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0289-game-of-life) |
+| [1254-number-of-closed-islands](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
