@@ -151,6 +151,7 @@
 | [0202-happy-number](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -229,6 +230,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -486,6 +488,7 @@
 | [0242-valid-anagram](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ashishraicode03/Data-Structures-and-Algorithms-/tree/master/0761-special-binary-string) |
